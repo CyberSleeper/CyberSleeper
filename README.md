@@ -1,5 +1,6 @@
+<p align="center"><img src="./banner.jpg" width="100%" height="240" style="object-fit: cover;" /></p>
 <h1 align="center">Hello 👋, I'm Mahartha Gemilang</h1>
-<h3 align="center">An undergraduate student at the Faculty of Computer Science, University of Indonesia who is active in learning new things in the world of technology. I have various skills and experience in website development ranging from organizational projects, committees, to internships. Apart from that, I am also active in honing my skills in competitive programming by participating and contributing to various contests or competitions.</h3>
+<h3 align="center">Enthusiastic Undergraduate with a Passion for Website Development and Competitive Programming</h3>
 
 - 📫 How to reach me: **mahartha.gemilang@gmail.com**
 
