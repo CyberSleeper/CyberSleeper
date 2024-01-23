@@ -1,4 +1,4 @@
-<p align="center"><img src="./banner.jpg" width="100%" height="240" style="object-fit: cover;" /></p>
+<p align="center"><img src="./banner.jpg" width="100%" /></p>
 <h1 align="center">Hello 👋, I'm Mahartha Gemilang</h1>
 <h3 align="center">Enthusiastic Undergraduate with a Passion for Website Development and Competitive Programming</h3>
 
