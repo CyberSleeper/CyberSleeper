@@ -24,11 +24,13 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,css,html,javascript,typescript,tailwind,react,nextjs,express" />
   </a>
+  <br/>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=prisma,postgres,git,github,django,py,selenium,java,go" />
   </a>
+  <br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=latex,matlab,octave,linux,md" />
+    <img src="https://skillicons.dev/icons?i=latex,octave,linux,md" />
   </a>
 </p>
 
