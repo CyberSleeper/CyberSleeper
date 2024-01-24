@@ -4,7 +4,7 @@
 
 - 📫 How to reach me: **mahartha.gemilang@gmail.com**
 
-- 📄 Know about my experiences: [ristek.link/MaharthaGemilang_Resume](ristek.link/MaharthaGemilang_Resume)
+- 📄 Know about my experiences: [ristek.link/MaharthaGemilang_Resume](https://www.ristek.link/MaharthaGemilang_Resume)
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=cybersleeper&show_icons=true&locale=en&theme=tokyonight&hide_border=true&hide_title=true" alt="cybersleeper" /></p>
 
