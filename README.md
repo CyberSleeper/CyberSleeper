@@ -6,7 +6,7 @@
 
 - 📄 Know about my experiences: [ristek.link/MaharthaGemilang_Resume](https://www.ristek.link/MaharthaGemilang_Resume)
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=cybersleeper&show_icons=true&locale=en&theme=tokyonight&hide_border=true&hide_title=true" alt="cybersleeper" /></p>
+<p align="center"><img align="center" src="https://my-stats-inky.vercel.app/api?username=cybersleeper&show_icons=true&locale=en&theme=tokyonight&hide_border=true&hide_title=true" alt="cybersleeper" /></p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -18,7 +18,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cybersleeper&show_icons=true&locale=en&layout=compact&hide=css,dart,cmake,html&theme=tokyonight&hide_border=true&hide_title=true" alt="top lang dark" /></p>
+<p align="center"><img align="center" src="https://my-stats-inky.vercel.app/api/top-langs?username=cybersleeper&show_icons=true&locale=en&layout=compact&hide=css,dart,cmake,html&theme=tokyonight&hide_border=true&hide_title=true" alt="top lang dark" /></p>
 
 <p align="center">
   <a href="https://skillicons.dev">
