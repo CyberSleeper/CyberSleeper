@@ -1,4 +1,6 @@
-<p align="center"><img src="./banner.jpg" width="100%" /></p>
+<a align="center" href="https://mahartha-gemilang.vercel.app">
+  <img src="./banner.jpg" width="100%" />
+</a>
 <h1 align="center">Hello 👋, I'm Mahartha Gemilang</h1>
 <h3 align="center">Enthusiastic Undergraduate with a Passion for Website Development and Competitive Programming</h3>
 
