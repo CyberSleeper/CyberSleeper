@@ -2,7 +2,7 @@
   <img src="./banner.jpg" width="100%" />
 </a>
 <h1 align="center">Hello 👋, I'm Mahartha Gemilang</h1>
-<h3 align="center">Enthusiastic Undergraduate with a Passion for Website Development and Competitive Programming</h3>
+<h3 align="center">University of Indonesia Undergraduate with a Passion for Website Development and Competitive Programming</h3>
 
 - 📫 How to reach me: **mahartha.gemilang@gmail.com**
 
