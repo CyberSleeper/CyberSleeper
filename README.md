@@ -1,46 +1,69 @@
-<a align="center" href="https://mahartha-gemilang.vercel.app">
-  <img src="./banner.jpg" width="100%" />
-</a>
+<a align="center" href="https://mahartha-gemilang.vercel.app"> <img src="./banner.jpg" width="100%" /></a>
+
 <h1 align="center">Hello 👋, I'm Mahartha Gemilang</h1>
-<h3 align="center">University of Indonesia Undergraduate with a Passion for Website Development and Competitive Programming</h3>
-
-- 📫 How to reach me: **mahartha.gemilang@gmail.com**
-
-- 📄 Know about my experiences: [ristek.link/MaharthaGemilang_Resume](https://www.ristek.link/MaharthaGemilang_Resume)
-
-<p align="center"><img align="center" src="https://my-stats-inky.vercel.app/api?username=cybersleeper&show_icons=true&locale=en&theme=tokyonight&hide_border=true&hide_title=true" alt="cybersleeper" /></p>
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/mahartha-gemilang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahartha-gemilang" height="30" width="40" /></a>
-<a href="https://instagram.com/mahartha.gemilang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahartha.gemilang" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/cybersleeper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="cybersleeper" height="30" width="40" /></a>
-</p>
-
-
-<h3 align="center">Languages and Tools:</h3>
-
-<p align="center"><img align="center" src="https://my-stats-inky.vercel.app/api/top-langs?username=cybersleeper&show_icons=true&locale=en&layout=compact&hide=css,dart,cmake,html&theme=tokyonight&hide_border=true&hide_title=true&exclude_repo=my-stats" alt="top lang dark" /></p>
+<h3 align="center">Backend & Infrastructure Engineer | Distributed Systems | Competitive Programming</h3>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,css,html,javascript,typescript,tailwind,react,nextjs,express" />
-  </a>
-  <br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=prisma,postgres,git,github,django,py,selenium,java,go" />
-  </a>
-  <br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=,,,latex,octave,linux,md,,," />
-  </a>
+  I specialize in building high-concurrency backend architectures, designing resilient distributed systems, and solving complex algorithmic challenges. 
 </p>
+
+- 📫 **How to reach me:** mahartha.gemilang@gmail.com
+- 📄 **Resume & Experience:** [ristek.link/MaharthaGemilang_Resume](https://www.ristek.link/MaharthaGemilang_Resume)
 
 ---
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cybersleeper&theme=tokyonight&hide_border=true" alt="cybersleeper" /></p>
+### 🚀 What I'm Currently Building
+- ⚡ **Distributed Systems:** Developing a replicated, sharded Key-Value store with consistent hashing and consensus algorithms in **Go**.
+- ⚖️ **Network Infrastructure:** Building a custom Layer 4/Layer 7 Load Balancer from scratch to handle high-throughput traffic routing.
+- 🌐 **Open Source:** Analyzing and contributing to **NoKV** to deepen knowledge of distributed database internals.
 
-<div style="border: 2px solid grey; border-radius: 8px; border-color: #24292e;">
+<p align="center">
+  <img align="center" src="https://my-stats-inky.vercel.app/api?username=cybersleeper&show_icons=true&locale=en&theme=tokyonight&hide_border=true&hide_title=true" alt="cybersleeper" />
+</p>
+
+### 🛠️ Technical Arsenal
+
+**Core Backend & Infrastructure**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,cpp,py,java,postgres,redis,kafka,docker,kubernetes,aws,linux,bash" />
+  </a>
+</p>
+
+**Frontend & Full-Stack Ecosystem**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=typescript,react,nextjs,tailwind,express,prisma,django" />
+  </a>
+</p>
+
+### 🏆 Competitive Programming & Problem Solving
+My engineering foundation is heavily built on competitive programming. I focus on optimal time/space complexity, advanced data structures, and algorithmic efficiency. 
+- **TLX (TOKI):** [Profile (CyberSleeper)](https://tlx.toki.id/profiles/CyberSleeper)
+- **Codeforces:** [Profile (cybersleeper)](https://codeforces.com/profile/cybersleeper)
+
+---
+<h3 align="center">Let's Connect & View My Profiles</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/mahartha-gemilang" target="blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/CyberSleeper27" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Twitter_(X)-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://medium.com/@mahartha.gemilang" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+  <a href="https://tlx.toki.id/profiles/CyberSleeper" target="blank">
+    <img align="center" src="https://img.shields.io/badge/TLX_(TOKI)-E34F26?style=for-the-badge&logo=codeforces&logoColor=white" alt="TLX" />
+  </a>
+  <a href="https://codeforces.com/profile/cybersleeper" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+  </a>
+</p>
+
+<br>
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CyberSleeper/CyberSleeper/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CyberSleeper/CyberSleeper/output/github-contribution-grid-snake.svg" />
