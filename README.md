@@ -14,7 +14,6 @@
 
 ### 🚀 What I'm Currently Building
 - ⚡ **Distributed Systems:** Developing a replicated, sharded Key-Value store with consistent hashing and consensus algorithms in **Go**.
-- ⚖️ **Network Infrastructure:** Building a custom Layer 4/Layer 7 Load Balancer from scratch to handle high-throughput traffic routing.
 - 🌐 **Open Source:** Analyzing and contributing to **[NoKV](https://github.com/feichai0017/NoKV)** to deepen knowledge of distributed database internals.
 
 <p align="center">
